@@ -12,12 +12,9 @@ A next-generation **Decision Support System** designed for banking professionals
 ---
 
 ## 🚀 Live Demo
-**[Click Here to Launch the App 🎈](LINKI_BURAYA_YAPISTIR)**
+**[Click Here to Launch the App 🎈](https://bank-churn-project.streamlit.app/)**
 
 ---
-
-## 📸 Screenshots
-*(Buraya ekran görüntüsü eklemek istersen screenshot.png yükleyip linkini koyabilirsin, yoksa bu satırı sil)*
 
 ## ⚡ Key Features
 
