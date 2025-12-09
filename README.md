@@ -70,7 +70,7 @@ To run this application on your local machine:
 
 ## 👨‍💻 Author
 
-Developed by **[SENİN ADIN]**
+Developed by **[Abdullah Selim Cinar]**
 * *Data Science & Analytics Student*
 * *Powered by Random Forest AI*
 
